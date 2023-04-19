@@ -23,3 +23,14 @@ button {
 
     padding: 0 8px;
 }
+
+#registration-form {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+#registration-form div {
+    display: flex;
+    flex-direction: column;
+}
